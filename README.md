@@ -1,5 +1,7 @@
 # Ex01 Portfolio
 ## Date: 31/10/2026
+## Name: Mohammed Zubair R
+## Reg NO: 212225040252
 
 ## AIM
 To create a Portfolio using HTML and CSS.
